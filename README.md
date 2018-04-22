@@ -1,2 +1,0 @@
-# auth
-Created with CodeSandbox
